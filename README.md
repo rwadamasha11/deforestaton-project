@@ -1,1 +1,2 @@
-# deforestaton-project
+ ForestQuery is a non-profit organization, on a mission to reduce deforestation around the world and which raises awareness about this important environmental topic.
+ my task was to understand which countries and regions around the world seem to have forests that have been shrinking in size, and also which countries and regions have the most significant forest area, both in terms of amount and percent of total area.
